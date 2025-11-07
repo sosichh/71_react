@@ -1,10 +1,9 @@
 import "./App.css";
+import HW2 from "./homeworks/HW2/HW2";
 
 function App() {
   return (
-    <div className="app">
-      <p>My first react app</p>
-    </div>
+    <HW2 />
   );
 }
 
