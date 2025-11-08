@@ -1,9 +1,10 @@
-import "./App.css";
-import HW2 from "./homeworks/HW2/HW2";
+import HW3 from "./homeworks/HW3/HW3";
 
 function App() {
   return (
-    <HW2 />
+    <>
+      <HW3 />
+    </>
   );
 }
 
