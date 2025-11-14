@@ -1,0 +1,28 @@
+.feedback {
+  display: flex;
+  flex-direction: column;
+  gap: 25px;
+  min-width: 800px;
+  padding: 20px;
+  background-color: #FFFFFF;
+  border-radius: 18px;
+}
+
+.feedback-results {
+  display: flex;
+  gap: 20px;
+  width: 100%;
+}
+
+.like-dislike {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  align-items: center;
+  width: 100%;
+}
+
+.result {
+  font-size: 30px;
+  font-weight: bold;
+}
